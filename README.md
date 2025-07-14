@@ -94,7 +94,7 @@ A simple, interactive web app created using **Gradio** allows users to:
 - Useful for retailers, sales analysts, and marketing teams
 
 ---
-![Gradio App]()
+![Gradio App](https://github.com/iamsunaina1/Retail-Price-Optimization/blob/main/gradio%20preview.png)
 
 
 ##  How to Run This Project
