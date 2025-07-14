@@ -94,6 +94,7 @@ A simple, interactive web app created using **Gradio** allows users to:
 - Useful for retailers, sales analysts, and marketing teams
 
 ---
+![Gradio App]()
 
 
 ##  How to Run This Project
